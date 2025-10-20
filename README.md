@@ -1,4 +1,7 @@
-Hello. I'm Farhan. Currently a 4th year Software Engineering student at Univesity of Malaya. I strive to create clean code so people don't hate me, and to also have it be maintainable. I hope I can learn on how software evolves and is maintained so I can achieve my goal.   
+Hello. I'm Farhan. Currently a 4th year Software Engineering student at Univesity of Malaya.
+I strive to write clean code so people don't hate me, and for self-satisfaction. 
+I hope I can learn on how software evolves and is maintained so I can achieve my goal.
+
 <!--
 **4peng/4peng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
